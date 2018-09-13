@@ -1,2 +1,2 @@
-# pradeeban.github.io
-Pradeeban Kathiravelu, Distributed Systems Researcher
+# Pradeeban Kathiravelu
+Ph.D. Candidate and Distributed Systems Researcher
