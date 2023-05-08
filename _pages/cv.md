@@ -11,8 +11,11 @@ redirect_from:
 
 Academics
 ======
-* Postdoctoral Researcher, Emory University, Atlanta, GA, USA [August 2019 – Present].
-  * Researching a wide area network framework to efficiently transfer and execute healthcare network flows, such as image streams of teleradiology and remote workstations, for telehealth in healthcare deserts.
+* Assistant Professor of Computer Science, University of Alaska Anchorage, Anchorage, AK, USA [August 2023 – ].
+  * Research interests lie in distributed computing and big data, and specifically, developing wide area network frameworks to support telehealth access in remote regions.
+
+* Postdoctoral Researcher, Emory University, Atlanta, GA, USA [August 2019 – August 2023].
+  * Developed wide area network frameworks to efficiently transfer and execute healthcare network flows, such as image streams of teleradiology and remote workstations, for telehealth in healthcare deserts.
 
 * Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC), Ph.D. [Sep 2014 – August 2019].
   * INESC-ID Lisboa / Instituto Superior Técnico (IST) – Universidade de Lisboa (ULisboa), Portugal and Université catholique de Louvain (UCLouvain), Belgium. Degree Average: 18/20.
@@ -29,7 +32,7 @@ Academics
 
 Professional experience
 ======
-* Senior Systems Software Engineer, Emory University, Atlanta, GA, USA [June 2018 – Present].
+* Senior Systems Software Engineer, Emory University, Atlanta, GA, USA [June 2018 – August 2023].
   * Researched and developed Niffler, a radiology big data integration framework to query, retrieve, and process DICOM images and clinical data at scale from PACS and RIS systems in real-time or retrospectively.
   * Researched and developed CONTROL-CORE, a distributed execution framework for design and simulation of neuromodulation control systems with a lightweight visual editor to compose studies as workflows.
 
@@ -113,11 +116,11 @@ Teaching
 Mentoring
 ======
 * Organization administrator, Google Summer of Code (GSoC)
-  * Department of Biomedical Informatics, Emory University (Emory BMI) [2019 - Current]
+  * Department of Biomedical Informatics, Emory University (Emory BMI) [2019 - 2023]
   * caMicroscope [2020]
   
 * Mentor, GSoC
-  * Emory BMI [2016, 2019 - Current]
+  * Emory BMI [2016, 2019 - 2023]
   * AbiWord [2011 - 2013]
 
 Selected Awards
