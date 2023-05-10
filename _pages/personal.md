@@ -46,3 +46,11 @@ _A few things that made my YEAR interesting.._ series
   * Each blog post is a collection of 30 items, remarking a happy event or an achievement of the year.
   * I have written this annual post since 2010, usually in the last week of December.
   * A few years were exciting (for example, 2019, 2017, and 2015) and I was struggling to find which of the events to exclude from the post to limit to 30 things. Other years (such as 2018) were less eventful.
+  
+_A few things that made my DECADE interesting.._ series
+======
+
+* [This](https://kkpradeeban.blogspot.com/search/label/Decade%20Post) is a series (?) of blog posts that I hope to write every 10 years.
+  * Each blog post is a collection of 30 items, remarking a happy event or an achievement of the decade.
+  * My first decade post was for 2010s, written in December 2019. 2010s has been my most eventful and exciting decade.
+  * Not sure whether this will become a series. We need to wait until 2029 for that.
