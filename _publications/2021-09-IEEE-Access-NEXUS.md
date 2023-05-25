@@ -6,7 +6,7 @@ excerpt: 'This paper presents the NEXUS workflow framework for closed-loop execu
 date: 2021-09-01
 venue: 'IEEE Access'
 paperurl: 'https://doi.org/10.1109/ACCESS.2021.3113892'
-citation: '<b>Kathiravelu, P.</b>, Sarikhani, P., Gu, P., and Mahmoudi, B. Software-Defined Workflows for Distributed Interoperable Closed-Loop Neuromodulation Control Systems. In IEEE Access. 9, 131733-131745. September 2021.'
+citation: '<b>Kathiravelu, P.</b>, Sarikhani, P., Gu, P., and Mahmoudi, B. <b>Software-Defined Workflows for Distributed Interoperable Closed-Loop Neuromodulation Control Systems.</b> In IEEE Access. 9, 131733-131745. September 2021.'
 ---
 
 [Download paper here](https://doi.org/10.1109/ACCESS.2021.3113892)

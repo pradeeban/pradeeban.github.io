@@ -6,7 +6,7 @@ excerpt: 'This paper presents an approach to understanding MRI scanner utilizati
 date: 2021-01-01
 venue: 'IEEE Access'
 paperurl: 'https://doi.org/10.1109/ACCESS.2021.3050467'
-citation: '<b>Kathiravelu, P.</b>, Sharma, A., and Sharma, P. Understanding Scanner Utilization with Real-Time DICOM Metadata Extraction. In IEEE Access. Vol. 9, pp. 10621 – 10633. January 2021.'
+citation: '<b>Kathiravelu, P.</b>, Sharma, A., and Sharma, P. <b>Understanding Scanner Utilization with Real-Time DICOM Metadata Extraction.</b> In IEEE Access. Vol. 9, pp. 10621 – 10633. January 2021.'
 ---
 
 [Download paper here](https://doi.org/10.1109/ACCESS.2021.3050467)

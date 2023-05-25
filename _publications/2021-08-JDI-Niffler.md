@@ -6,7 +6,7 @@ excerpt: 'This paper presents the architecture of [Niffler](https://github.com/E
 date: 2021-08-01
 venue: 'Journal of Digital Imaging (JDI)'
 paperurl: 'https://doi.org/10.1007/s10278-021-00491-w'
-citation: '<b>Kathiravelu, P.</b>, Sharma, P., Sharma, A., Banerjee, I., Trivedi, T., Purkayastha, S., Sinha, P., Cadrin-Chenevert, A., Safdar, N., and Gichoya, J. A DICOM Framework for Machine Learning Pipelines against Real-Time Radiology Images. In Journal of Digital Imaging (JDI). 34(4), 1005-1013. August 2021.'
+citation: '<b>Kathiravelu, P.</b>, Sharma, P., Sharma, A., Banerjee, I., Trivedi, T., Purkayastha, S., Sinha, P., Cadrin-Chenevert, A., Safdar, N., and Gichoya, J. <b>A DICOM Framework for Machine Learning Pipelines against Real-Time Radiology Images.</b> In Journal of Digital Imaging (JDI). 34(4), 1005-1013. August 2021.'
 ---
 
 [Download paper here](https://doi.org/10.1007/s10278-021-00491-w)
