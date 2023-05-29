@@ -18,5 +18,8 @@ My research interests are where distributed computing and biomedical informatics
 
 News
 ======
+[May 24, 2023] We are editing a Research Topic, **Distributed Computing in Neuroscience** for Frontiers In Neuroinformatics journal.
 
-I am joining the University of Alaska Anchorage, College of Engineering as a Tenure-Track Assistant Professor of Computer Science this Fall. I will be a part of an excellent team of faculty in Anchorage. Look forward to more updates from me during this new chapter of my life.
+Please [submit your papers on the topic](https://www.frontiersin.org/research-topics/56857/distributed-computing-in-neuroscience)!
+
+[March 31, 2023] I am joining the University of Alaska Anchorage, College of Engineering as a Tenure-Track Assistant Professor of Computer Science this Fall. I will be a part of an excellent team of faculty in Anchorage. Look forward to more updates from me during this new chapter of my life.
