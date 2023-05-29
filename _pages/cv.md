@@ -94,7 +94,8 @@ Talks
   
 Services
 ======
-* Technical Program Chair,  IEEE International Conference on Software Defined Systems (SDS) [2021].
+* Topic Editor, Frontiers in Neuroinformatics. Research Topic: “Distributed Computing in Neuroscience” [2023].
+* Technical Program Chair, IEEE International Conference on Software Defined Systems (SDS) [2021 and 2023].
 * Program Committee Member.
   * The IEEE International Conference on Software Defined Systems (SDS) [2019 – 2022]. 
   * The IEEE International Conference on Fog and Mobile Edge Computing (FMEC) [2021].
