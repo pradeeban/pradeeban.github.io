@@ -131,13 +131,3 @@ Selected Awards
 * Erasmus Mundus Grants by EACEA [MSc: 2012 Sep – 2014 Aug. Ph.D.: 2014 Sep – 2017 Aug].  
 * Travel grant for ACRO 2017, International Summer School on Latency Control for Internet of Services.
 * Emory University School of Medicine, Office of Postdoctoral Education Management Certificate. Fall 2020.
-
-Research Interests
-======
-* Distributed Systems
-* Software-Defined Systems 
-* Big data Integration
-* Internet Measurements 
-* Service-Oriented Architecture
-* Telehealth
-* Radiology.
