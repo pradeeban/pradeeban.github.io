@@ -58,4 +58,4 @@ _A few things that made my DECADE interesting.._ series
 
 Travels
 ======
-I like to visit almost all the countries in the world. I have a [list of top 20 countries that I love to visit soon](bucket-list.html).
+I like to visit almost all the countries in the world. I maintain a [list of top 20 countries that I love to visit soon](bucket-list.html).
