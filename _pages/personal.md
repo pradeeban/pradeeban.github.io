@@ -13,7 +13,11 @@ I have blogged extensively about my life in my [blog](https://kkpradeeban.blogsp
 
 Travels
 ======
-I have lived in 7 countries (Sri Lanka, Portugal, Sweden, Croatia, USA, Belgium, and Saudi Arabia) and [traveled](https://kkpradeeban.blogspot.com/search/label/Travels) in 47 countries.
+I have lived in 7 countries (Sri Lanka, Portugal, Sweden, Croatia, USA, Belgium, and Saudi Arabia). 
+
+I have also [traveled](https://kkpradeeban.blogspot.com/search/label/Travels) in 47 countries.
+
+Find the list of countries and cities I have visited [here](travels.html).
 
 I like to visit almost all the countries in the world. I maintain a [list of top 20 countries that I love to visit soon](bucket-list.html).
 
