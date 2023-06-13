@@ -60,4 +60,4 @@ Travels
 ======
 I love random walks. I like villages and cities in the border. Love how the borders change the landscape, life styles, and everything. Loved my border crossings by land, the most, including, USA - Mexico,  Croatia - Serbia, Croatia - Slovenia, Romania - Hungary, and many other EU border crossings (that do not really exist thanks to Schengen).
 
-I want to visit almost all the countries in the world. I have a [list of top 20 countries that I love to visit soon](bucket-list.html).
+I like to visit almost all the countries in the world. I have a [list of top 20 countries that I love to visit soon](bucket-list.html).
