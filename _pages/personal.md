@@ -21,7 +21,7 @@ I have traveled in 47 countries as this map highlights. Read the [full list](tra
 
 <div class="separator" style="clear: both; text-align: center;"><a href="/_pages/my-travel-map.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="840" data-original-width="1080" height="498" src="/_pages/my-travel-map.png" width="640" /></a></div>
 
-I like to visit all the countries in the world. I maintain a [list of top 20 countries that I love to visit soon](bucket-list.html).
+I maintain a [list of top 20 countries that I love to visit soon](bucket-list.html).
 
 _Memories of_ series
 ======
