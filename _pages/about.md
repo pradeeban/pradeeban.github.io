@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Pradeeban, an incoming Assistant Professor of Computer Science at the University of Alaska Anchorage. My research focuses on networking and big data innovations for healthcare. I specifically look into wide-area network optimizations for telehealth access and equity in rural Alaska and healthcare deserts globally.
+I am Pradeeban, an Assistant Professor of Computer Science at the University of Alaska Anchorage. My research focuses on networking and big data innovations for healthcare. I specifically look into wide-area network optimizations for telehealth access and equity in rural Alaska and healthcare deserts globally.
 
 As a Postdoctoral Researcher at the Department of Biomedical Informatics, Emory University, Atlanta, GA, USA. I researched and built efficient frameworks to schedule and execute biomedical informatics workflows, such as radiology imaging streams and neuroscience pipelines, in research clusters and multi-clouds. 
 
