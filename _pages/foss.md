@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a free and open source software (FOSS) enthusiast. 
-[KathiraveluLab](https://github.com/kathiravelulab/niffler) hosts our recent research developments.
+[KathiraveluLab](https://github.com/kathiravelulab) hosts our recent research developments.
 
 ## Google Summer of Code (GSoC)
 
