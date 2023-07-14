@@ -8,17 +8,16 @@ redirect_from:
   - /foss.md
 ---
 
-I am a free and open source software (FOSS) enthusiast. 
-
-[KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent research developments.
+I am a free and open source software (FOSS) enthusiast.
+[KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent research developments that are open source.
 
 ## Google Summer of Code (GSoC)
 
-The presentation below provides an introduction to [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/), an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations.
+The presentation below introduces [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/), an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations.
 
 <iframe src="../files/GSoC.pdf" width="100%" height="545px"></iframe>
 
-Please note the application deadline is usually around the first week of April each year. Please follow the [timeline](https://developers.google.com/open-source/gsoc/timeline) correctly and submit your project proposals on the GSoC site.
+Please note the application deadline is usually around the first week of April. Please follow the [timeline](https://developers.google.com/open-source/gsoc/timeline) and submit your project proposals on the GSoC site.
 
 
 ## Projects
