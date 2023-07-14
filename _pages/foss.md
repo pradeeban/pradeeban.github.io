@@ -10,7 +10,7 @@ redirect_from:
 
 I am a free and open source software (FOSS) enthusiast. 
 
-[KathiraveluLab](https://github.com/kathiravelulab) hosts our recent research developments.
+[KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent research developments.
 
 ## Google Summer of Code (GSoC)
 
@@ -27,5 +27,5 @@ The below are a few open-source projects that I built as a core researcher and d
 
 * [Niffler](https://github.com/Emory-HITI/Niffler/): A DICOM retrieval and processing framework
 * [CONTROL-CORE](https://github.com/ControlCore-Project/): Design and simulation framework for neuromodulation control systems.
-* [Bindaas](https://github.com/sharmalab/bindaas): A data access federation middleware framework.
-* [Robin](https://github.com/KathiraveluLab/robin): An A/B Proxy
+* [Bindaas](https://github.com/sharmalab/bindaas/): A data access federation middleware framework.
+* [Robin](https://github.com/KathiraveluLab/robin;): An A/B Proxy
