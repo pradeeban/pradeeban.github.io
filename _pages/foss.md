@@ -28,4 +28,4 @@ The below are a few open-source projects that I built as a core researcher and d
 * [Niffler](https://github.com/Emory-HITI/Niffler/): A DICOM retrieval and processing framework
 * [CONTROL-CORE](https://github.com/ControlCore-Project/): Design and simulation framework for neuromodulation control systems.
 * [Bindaas](https://github.com/sharmalab/bindaas/): A data access federation middleware framework.
-* [Robin](https://github.com/KathiraveluLab/robin;): An A/B Proxy
+* [Robin](https://github.com/KathiraveluLab/robin/): An A/B Proxy
