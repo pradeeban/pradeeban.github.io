@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Dena'inaq ełnenaq' gheshtnu ch'q'u yeshdu. I live and work on the land of the Dena'ina.
-
 I have blogged extensively about my life in my [blog](https://kkpradeeban.blogspot.com/). Some of these blogposts follow a theme as a series.
 
 Travels
