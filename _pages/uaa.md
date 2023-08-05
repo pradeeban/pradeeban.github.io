@@ -7,13 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Calendar
-Please see my calendar for my availability when you invite me for a meeting.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=pkathiravelu%40alaska.edu&ctz=America%2FAnchorage" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-You can find me at ECB 308G most of the time during the weekdays.
-
 ## Project Ideas List for CSCE A470 and CSCE A498
 
 The document below provides a list of project ideas, aiming to satisfy the course requirements for CSCE A470 and CSCE A498.
