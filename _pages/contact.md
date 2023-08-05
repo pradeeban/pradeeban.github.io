@@ -9,7 +9,7 @@ author_profile: true
 
 Please email me for collaboration if our research interests align.
 
-If you are a University of Alaska Anchorage student or faculty, you should have direct access to my office hours.
+If you are a University of Alaska student, staff, or faculty, you should have direct access to my office hours.
 You can come and find me at ECB 308G most of the time during the weekdays, except when I am at a class or an external meeting/event.
 
 If you like to meet me outside the office hours, please look at my calendar for my availability and send an invitation to my alaska.edu email address.
