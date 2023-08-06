@@ -20,4 +20,4 @@ If you like to meet me outside the office hours, please look at my calendar for 
 
 This calendar is usually complete and upto date. 
 
-If you are from the Outside, we can meet remotely over the Zoom. Please note that my timezone is Anchorage/Alaska.
+If you are from Outside, we can meet remotely over the Zoom. Please note that my timezone is Anchorage/Alaska.
