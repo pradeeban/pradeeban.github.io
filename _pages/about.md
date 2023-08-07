@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Pradeeban, an Assistant Professor of Computer Science at the University of Alaska Anchorage. My research focuses on networking and big data innovations for healthcare. I specifically look into wide-area network optimizations for telehealth access and equity in rural Alaska and healthcare deserts globally.
+I am Pradeeban, an Assistant Professor of Computer Science at the University of Alaska Anchorage (UAA). My research focuses on networking and big data innovations for healthcare. I specifically look into wide-area network optimizations for telehealth access and equity in rural Alaska and healthcare deserts globally.
 
-As a Postdoctoral Researcher at the Department of Biomedical Informatics, Emory University, I researched and built efficient frameworks to schedule and execute biomedical informatics workflows, such as radiology imaging streams and neuroscience pipelines, in research clusters and multi-clouds. 
+Prior to joining UAA, I was a Postdoctoral Researcher at the Department of Biomedical Informatics, Emory University. I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium. My Ph.D. thesis was on Software-Defined Systems for network-aware service composition and workflow placement. I received my MSc degree, Erasmus Mundus European Master in Distributed Computing (EMDC), from Instituto Superior Técnico, Portugal and KTH Royal Institute of Technology, Sweden.
 
-I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium. My Ph.D. thesis was on Software-Defined Systems for network-aware service composition and workflow placement. I received my MSc degree, Erasmus Mundus European Master in Distributed Computing (EMDC), from Instituto Superior Técnico, Portugal, and KTH Royal Institute of Technology, Sweden.
-
-My research interests are where distributed systems and biomedical informatics meet, including Software-Defined Systems, network softwarization, telehealth, big data integration, Internet measurements, and Service-Oriented Architecture (SOA). I also seek to contribute to diverse topics related to the circumpolar north, such as polar science and Alaska Native Studies, using my distributed computing expertise. I enjoy working on open-source projects and mentoring students in undergraduate research and in programs like Google Summer of Code (GSoC).
+My research interests are where distributed systems and biomedical informatics meet, including Software-Defined Systems, network softwarization, telehealth, big data integration, Internet measurements, and Service-Oriented Architecture (SOA). I also seek to contribute to diverse topics related to the circumpolar north, such as polar science and Alaska Native Studies. I enjoy working on open-source projects and mentoring undergraduate research.
 
 News
 ======
