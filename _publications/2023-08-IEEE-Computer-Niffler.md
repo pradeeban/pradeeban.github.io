@@ -6,7 +6,7 @@ excerpt: 'This paper visualizes the MRI scanner utilization using DICOM metadata
 date: 2023-08-05
 venue: 'IEEE Computer Magazine'
 paperurl: 'https://doi.org/10.1109/MC.2022.3228107'
-citation: '<b>Kathiravelu, P.</b>, Li, N., Singi, N., Bhimireddy, A., Birmingham, R., Gichoya, J., Trivedi, H., Safdar, N., Sharma, A., and Sharma, P. <b>Visualizing Scanner Utilization from MRI Metadata and Clinical Data.</b> In IEEE Computer. August 2023.'
+citation: '<b>Kathiravelu, P.</b>, Li, N., Singi, N., Bhimireddy, A., Birmingham, R., Gichoya, J., Trivedi, H., Safdar, N., Sharma, A., and Sharma, P. <b>Visualizing Scanner Utilization from MRI Metadata and Clinical Data.</b> In IEEE Computer. 56(8), 68-76. August 2023.'
 ---
 
 This article presents our visual approach to understanding magnetic resonance imaging scanner usage in a health-care network in Atlanta, GA, USA. We build a framework that lets us
