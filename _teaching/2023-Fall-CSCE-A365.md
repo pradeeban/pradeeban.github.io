@@ -1,5 +1,5 @@
 ---
-title: "CSCE A365 -- Networking"
+title: "CSCE A365 -- Computer Networks"
 collection: teaching
 type: "Undergraduate course. Computer Science & Computer Engineering (CSCE)"
 permalink: /teaching/2023-Fall-CSCE-A365
