@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Given below are a few of my recent publications. If our research interests align, please feel free to send me an email for a potential collaboration.
+A few of my recent publications are given below. Please email me for collaboration if our research interests align.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
