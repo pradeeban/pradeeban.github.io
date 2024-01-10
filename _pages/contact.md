@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+Yagheli Da? How are you?
 Dena'inaq ełnenaq' gheshtnu ch'q'u yeshdu. I live and work on the land of the Dena'ina.
 
 I like collaborations and inter-disciplinary research. If you are reading this, it is likely that we have common interests. I like to hear from you.
