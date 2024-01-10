@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Selected Recent Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
+Given below are a few of my recent publications. If our research interests align, please feel free to send me an email for a potential collaboration.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
