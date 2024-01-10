@@ -10,7 +10,7 @@ redirect_from:
   - /projects.md
 ---
 
-I am a free and open source software (FOSS) enthusiast. [KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent research developments that are open source.
+I am a free and open-source software (FOSS) enthusiast. [KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent research developments that are open source.
 
 ## Google Summer of Code (GSoC)
 
@@ -21,9 +21,9 @@ The presentation below introduces [Google Summer of Code (GSoC)](https://summero
 Please note the contributor application deadline is usually around the first week of April. Please follow the [timeline](https://developers.google.com/open-source/gsoc/timeline) and submit your project proposals on the GSoC site.
 
 
-## Projects
+## Open Source
 
-The below are a few open-source projects that I built as a core researcher and developer.
+Below are a few open-source projects that I built as a core researcher and developer.
 
 * [Niffler](https://github.com/Emory-HITI/Niffler/): A DICOM retrieval and processing framework
 * [CONTROL-CORE](https://github.com/ControlCore-Project/): Design and simulation framework for neuromodulation control systems.
