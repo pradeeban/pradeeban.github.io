@@ -20,4 +20,4 @@ If you like to meet me outside the office hours, please look at my calendar for 
 
 Unsure of how to create a calendar invitation through your Google account? [Check this out!](https://support.google.com/calendar/answer/10729749?hl=en)!
 
-If you are from Outside, we can meet remotely over the Zoom.
+If you are from the [Outside](https://en.wiktionary.org/wiki/Outside), we can meet remotely over the Zoom.
