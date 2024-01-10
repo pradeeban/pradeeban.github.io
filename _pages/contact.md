@@ -9,10 +9,10 @@ author_profile: true
 
 Dena'inaq ełnenaq' gheshtnu ch'q'u yeshdu. I live and work on the land of the Dena'ina.
 
-Please email me for collaboration if our research interests align.
+I like collaborations and inter-disciplinary research. If you are reading this, it is likely that we have common interests. I like to hear from you.
 
 If you are a University of Alaska student, staff, or faculty, you should have direct access to my office hours.
-You can come and find me at ECB 308G most of the time during the weekdays, except when I am at a class or an external meeting/event.
+You can come and find me at ECB 308G most of the weekdays, except when I am at a class or an external meeting/event.
 
 If you like to meet me outside the office hours, please look at my calendar for my availability and send a calendar invitation to my email address.
 
