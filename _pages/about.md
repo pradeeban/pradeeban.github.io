@@ -18,6 +18,6 @@ News
 ======
 **February 21, 2024:** [Alaska](https://github.com/uaanchorage/GSoC/) is accepted as a new mentoring organization for the Google Summer of Code (GSoC) 2024. I am excited to be an organization administrator and mentor, helping contributors with our project ideas. Are you interested? [Apply](https://summerofcode.withgoogle.com/) to become a GSoC Contributor!
 
-**July 10, 2023:** I will represent the Department of Biomedical Informatics, Emory University (Emory BMI) at the Google Summer of Code Mentor Summit 2023 at Sunnyvale, Oct 13th Friday - Oct 15th Sunday, as the primary organization administrator for Emory BMI. Are you also attending the mentor summit? Let's meet there!
+**July 10, 2023:** I will represent the Department of Biomedical Informatics, Emory University (Emory BMI) at the Google Summer of Code (GSoC) Mentor Summit 2023 at Sunnyvale, Oct 13th Friday - Oct 15th Sunday, as the primary organization administrator for Emory BMI. Are you also attending the mentor summit? Let's meet there!
 
 **March 31, 2023:** I am joining the University of Alaska Anchorage, College of Engineering as a Tenure-Track Assistant Professor of Computer Science this Fall. I will be a part of an excellent team of faculty in Anchorage. Look forward to more updates from me during this new chapter of my life.
