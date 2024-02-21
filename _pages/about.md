@@ -16,6 +16,7 @@ My research interests are where distributed systems and biomedical informatics m
 
 News
 ======
+**February 21, 2024:** [Alaska](https://github.com/uaanchorage/GSoC/) is accepted as a new mentoring organization for the Google Summer of Code (GSoC) 2024. I am excited to be an organization administrator and mentor, helping contributors with our project ideas. Are you interested in contributing? [Apply](https://summerofcode.withgoogle.com/) to become a GSoC Contributor!
 
 **July 10, 2023:** I will represent the Department of Biomedical Informatics, Emory University (Emory BMI) at the Google Summer of Code Mentor Summit 2023 at Sunnyvale, Oct 13th Friday - Oct 15th Sunday, as the primary organization administrator for Emory BMI. Are you also attending the mentor summit? Let's meet there!
 
