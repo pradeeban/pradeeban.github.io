@@ -14,7 +14,7 @@ I am a free and open-source software (FOSS) enthusiast. [KathiraveluLab](https:/
 
 ## Google Summer of Code (GSoC)
 
-The presentation below introduces [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/), an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations.  [Alaska GSoC Ideas](https://github.com/uaanchorage/gsoc) have some open-source project ideas I am interested in.
+The presentation below introduces [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/), an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations.  [Alaska GSoC](https://github.com/uaanchorage/gsoc) has some open-source projects I am working on.
 
 <iframe src="../files/GSoC.pdf" width="100%" height="545px"></iframe>
 
