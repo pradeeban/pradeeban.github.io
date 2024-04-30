@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Pradeeban, an Assistant Professor of Computer Science at the University of Alaska Anchorage (UAA). My research focuses on networking and big data innovations for healthcare. I specifically look into wide-area network optimizations for telehealth access and equity in rural Alaska and healthcare deserts globally. I also research active learning approaches in undergraduate computer science education. My other research interests include Software-Defined Systems, network softwarization, big data integration, Internet measurements, and Service-Oriented Architecture (SOA). I also seek to contribute to diverse topics related to the circumpolar north, such as polar science and Alaska Native Studies. I enjoy working on open-source projects and mentoring undergraduate research.
+I am Pradeeban, an Assistant Professor of Computer Science at the University of Alaska Anchorage (UAA). 
 
+My research interests include distributed computing, wide-area networks, big data federation, Internet measurements, Service-Oriented Architecture (SOA), and active learning in computer science education. I work on projects that apply these research aspects to the circumpolar north on diverse topics such as healthcare equity in rural Alaska, telehealth access in healthcare deserts, polar science, and Alaska Native Studies. I also enjoy mentoring undergraduates in open-source and research.
 
-Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedical Informatics, Emory University. I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium. My Ph.D. thesis was on Software-Defined Systems for network-aware service composition and workflow placement. I received my MSc degree, Erasmus Mundus European Master in Distributed Computing (EMDC), from Instituto Superior Técnico, Portugal and KTH Royal Institute of Technology, Sweden.
+Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedical Informatics, Emory University. I have an EU Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC) from INESC-ID Lisboa / Instituto Superior Técnico, Universidade de Lisboa, Portugal and Université catholique de Louvain, Belgium. 
 
 
 News
