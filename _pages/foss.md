@@ -1,5 +1,5 @@
 ---
-permalink: /foss/
+permalink: /_pages/foss.html/
 title: "Open Source"
 author_profile: true
 redirect_from: 
