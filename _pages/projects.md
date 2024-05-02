@@ -11,7 +11,7 @@ redirect_from:
 
 ## Open Source
 
-You can find my Google Summer of Code presentations and other resources [here](../foss.html).
+You can find my Google Summer of Code (GSoC) presentations and other resources [here](../foss.html).
 
 Below are a few open-source projects that I built as a core researcher and developer.
 
