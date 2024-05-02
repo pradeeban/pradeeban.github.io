@@ -11,12 +11,12 @@ redirect_from:
   - /gsoc.md
 ---
 
-I am a free and open-source software (FOSS) enthusiast. 
-
 
 ## Google Summer of Code (GSoC)
 
-The presentation below introduces [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/), an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations. 
+I am a free and open-source software (FOSS) enthusiast. I am also the organization administrator for "Alaska" in the Google Summer of Code (GSoC).
+
+The presentation below introduces [GSoC](https://summerofcode.withgoogle.com/), an annual open-source summer internship program funded by Google, where contributors work remotely with their favorite open-source organizations. 
 
 [Alaska GSoC](https://github.com/uaanchorage/gsoc) is the list of project ideas that are part of the GSoC as the organization, "Alaska." It also includes some open-source projects I am working on.
 
