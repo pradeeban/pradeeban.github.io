@@ -20,6 +20,6 @@ The presentation below introduces [GSoC](https://summerofcode.withgoogle.com/), 
 
 [Alaska GSoC](https://github.com/uaanchorage/gsoc) is the list of project ideas that are part of the GSoC as the organization, "Alaska." It also includes some open-source projects I am working on.
 
-<iframe src="../files/GSoC.pdf" width="100%" height="545px"></iframe>
+<iframe src="../../files/GSoC.pdf" width="100%" height="545px"></iframe>
 
 Please note the contributor application deadline is usually around the first week of April. Please follow the [timeline](https://developers.google.com/open-source/gsoc/timeline) and submit your project proposals on the GSoC site.
