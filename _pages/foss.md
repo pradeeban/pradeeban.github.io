@@ -22,6 +22,9 @@ The presentation below introduces [GSoC](https://summerofcode.withgoogle.com/), 
 
 Please note the contributor application deadline is usually around the first week of April. Please follow the [timeline](https://developers.google.com/open-source/gsoc/timeline) and submit your project proposals on the GSoC site.
 
+## Community Bonding Period?
+
 I also have a "Part-II" presentation for the above, more widely used presentation on GSoC. This presentation is brief and specifically targets contributors who have just been accepted into GSoC. So, this is a presentation for the so-called Community Bonding period.
 
-<iframe src="../../files/GSoC-Part-II.pdf" width="100%" height="545px"></iframe>
+<iframe src="../../files/GSoC-Part-II.pdf" width="100%" height="450px"></iframe>
+
