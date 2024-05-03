@@ -78,13 +78,6 @@ Projects
   * OMII-UK [2010] – Developed alternative presentation layers for OGSA-DAI Open Grid Services Architecture - Data Access and Integration, using Apache CXF.
   * AbiWord [2009] – Ported AbiWord Windows API (C++) to Unicode.
 
-Selected Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-The full publications list can be found from [Google Scholar](https://scholar.google.com/citations?user=k1PYH8sAAAAJ&hl=en).
 
 Services
 ======
