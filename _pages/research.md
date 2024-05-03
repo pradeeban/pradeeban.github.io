@@ -4,11 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-A few of my recent publications are given below. Please email me for collaboration if our research interests align.
+My publications list can be found on [Google Scholar](https://scholar.google.com/citations?user=k1PYH8sAAAAJ&hl=en).
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Below are a few of my recent publications. If our research interests align, please email me for collaboration.
+
 
 {% include base_path %}
 
@@ -18,7 +17,3 @@ A few of my recent publications are given below. Please email me for collaborati
 
 
 
-
----
----
-The full publications list can be found from [Google Scholar](https://scholar.google.com/citations?user=k1PYH8sAAAAJ&hl=en).
