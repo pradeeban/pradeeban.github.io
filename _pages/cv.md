@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Academics"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Academics
-======
 * Assistant Professor of Computer Science, University of Alaska Anchorage, Anchorage, AK, USA [August 2023 – ].
 
 * Postdoctoral Researcher, Emory University, Atlanta, GA, USA [August 2019 – August 2023].
