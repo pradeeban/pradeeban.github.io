@@ -109,19 +109,16 @@ Services
 * External Reviewer for several journals and conferences.
 * Program representative, Erasmus Mundus Association [EMJD-DC – 2016 and 2017; EMDC – 2013, 2017, and 2018].
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Mentoring
 ======
 * Organization administrator, Google Summer of Code (GSoC)
+  * Alaska [2024]
   * Department of Biomedical Informatics, Emory University (Emory BMI) [2019 - 2023]
   * caMicroscope [2020]
   
 * Mentor, GSoC
+  * Alaska [2024]
   * Emory BMI [2016, 2019 - 2023]
   * AbiWord [2011 - 2013]
 
