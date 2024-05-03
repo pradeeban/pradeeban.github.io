@@ -13,8 +13,11 @@ A few of my recent publications are given below. Please email me for collaborati
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+    {% include archive-single-cv.html %}
 {% endfor %}
+
+
+
 
 ---
 ---
