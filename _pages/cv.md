@@ -12,10 +12,8 @@ redirect_from:
 Academics
 ======
 * Assistant Professor of Computer Science, University of Alaska Anchorage, Anchorage, AK, USA [August 2023 – ].
-  * Research interests lie in distributed computing and big data, and specifically, developing wide area network frameworks to support telehealth access in remote regions.
 
 * Postdoctoral Researcher, Emory University, Atlanta, GA, USA [August 2019 – August 2023].
-  * Developed wide area network frameworks to efficiently transfer and execute healthcare network flows, such as image streams of teleradiology and remote workstations, for telehealth in healthcare deserts.
 
 * Erasmus Mundus Joint Doctorate in Distributed Computing (EMJD-DC), Ph.D. [Sep 2014 – August 2019].
   * INESC-ID Lisboa / Instituto Superior Técnico (IST) – Universidade de Lisboa (ULisboa), Portugal and Université catholique de Louvain (UCLouvain), Belgium. Degree Average: 18/20.
@@ -40,17 +38,13 @@ Professional experience
   * Developed and deployed Bindaas data access federation middleware to provide REST APIs for the Cancer Imaging Archive (TCIA) with API key based authentication measures with Kong API Gateway.
 
 * Software Engineer (Part-Time), UniPlaces, Portugal [Jan – Feb 2014]. 
-  * Developed Robin, an open source proxy for A/B testing, using NodeJs.
+  * Developed Robin, an open-source proxy for A/B testing, using NodeJs.
 
 * Software Engineer, WSO2, Sri Lanka, the Open Source Middleware Company [Sep 2010 – July 2012]. 
   * Developed Stratos Cloud Platform and WSO2 Load Balancer for load balancing and auto-scaling of Stratos.
 
 * Intern Software Engineer, WSO2. Developed an event monitoring web application [Oct 2008 – May 2009].
 
-Research Projects
-======
-* Georgia CTSA Informatics Grant, 2020. $15,150. PI: Prof. Judy Gichoya, Emory Radiology [July 2020 – June 2021].
-  * Real Time Inference Pipeline (RTIP) for Artificial Intelligence (AI) clinical validation. [Role: Co-PI].
 
 Research Visits
 ======
@@ -78,10 +72,18 @@ Projects
   * OMII-UK [2010] – Developed alternative presentation layers for OGSA-DAI Open Grid Services Architecture - Data Access and Integration, using Apache CXF.
   * AbiWord [2009] – Ported AbiWord Windows API (C++) to Unicode.
 
+* GSoC - Organization administrator
+  * Alaska [2024]
+  * Department of Biomedical Informatics, Emory University (Emory BMI) [2019 - 2023]
+  * caMicroscope [2020]
+  
+* GSoC - Mentor
+  * Alaska [2024]
+  * Emory BMI [2016, 2019 - 2023]
+  * AbiWord [2011 - 2013]
 
 Services
 ======
-* Topic Editor, Frontiers in Neuroinformatics. Research Topic: “Distributed Computing in Neuroscience” [2023].
 * Technical Program Chair, IEEE International Conference on Software Defined Systems (SDS) [2021 and 2023].
 * Program Committee Member.
   * Portuguese National Conference on Informatics, INForum. Tópico Aberto em Áreas Emergentes, Multidisciplinares e Interdisciplinares [2023].
@@ -96,18 +98,6 @@ Services
 * External Reviewer for several journals and conferences.
 * Program representative, Erasmus Mundus Association [EMJD-DC – 2016 and 2017; EMDC – 2013, 2017, and 2018].
 
-  
-Mentoring
-======
-* Organization administrator, Google Summer of Code (GSoC)
-  * Alaska [2024]
-  * Department of Biomedical Informatics, Emory University (Emory BMI) [2019 - 2023]
-  * caMicroscope [2020]
-  
-* Mentor, GSoC
-  * Alaska [2024]
-  * Emory BMI [2016, 2019 - 2023]
-  * AbiWord [2011 - 2013]
 
 Selected Awards
 ======
