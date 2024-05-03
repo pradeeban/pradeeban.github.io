@@ -55,31 +55,6 @@ Research Visits
   * Advisor: Prof. Tihana Galinac Grbac. Funded by: ACROSS / COST Action IC1304.
 
 
-Projects
-======
-* Project Technical Leader (PTL) and Committer, Messaging4Transport OpenDaylight Project [Aug 2015 – Aug 2018].
-  * Project management and community engagement initiatives. 
-    * Led Messaging4Transport in the OpenDaylight Beryllium release [2015 – 2016].
-    * Creator and Coordinator of OpenDaylight Lisboa Meetup Group [Feb 2015 – Jun 2018].
-  * OpenDaylight Summer Internship, 2015 – Developed AMQP (Advanced Message Queue Protocol) bindings for the Model-Driven Service Abstraction Layer (MD-SAL) of OpenDaylight.
-
-* Google Summer of Code (GSoC) – Contributor, 4 years.
-  * Department of Biomedical Informatics, Emory University School of Medicine (Emory BMI) [2015 and 2014]. 
-    * [2015] Developed Data Café, a data integration framework for heterogeneous biomedical research data.
-    * [2014] Developed MEDIator, a data federation and sharing platform for medical image archives.
-  * OMII-UK [2010] – Developed alternative presentation layers for OGSA-DAI Open Grid Services Architecture - Data Access and Integration, using Apache CXF.
-  * AbiWord [2009] – Ported AbiWord Windows API (C++) to Unicode.
-
-* GSoC – Organization administrator
-  * Alaska [2024]
-  * Department of Biomedical Informatics, Emory University (Emory BMI) [2019 - 2023]
-  * caMicroscope [2020]
-  
-* GSoC – Mentor
-  * Alaska [2024]
-  * Emory BMI [2016, 2019 - 2023]
-  * AbiWord [2011 - 2013]
-
 Services
 ======
 * Technical Program Chair, IEEE International Conference on Software Defined Systems (SDS) [2021 and 2023].
