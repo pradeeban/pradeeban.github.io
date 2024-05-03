@@ -72,12 +72,12 @@ Projects
   * OMII-UK [2010] – Developed alternative presentation layers for OGSA-DAI Open Grid Services Architecture - Data Access and Integration, using Apache CXF.
   * AbiWord [2009] – Ported AbiWord Windows API (C++) to Unicode.
 
-* GSoC - Organization administrator
+* GSoC – Organization administrator
   * Alaska [2024]
   * Department of Biomedical Informatics, Emory University (Emory BMI) [2019 - 2023]
   * caMicroscope [2020]
   
-* GSoC - Mentor
+* GSoC – Mentor
   * Alaska [2024]
   * Emory BMI [2016, 2019 - 2023]
   * AbiWord [2011 - 2013]
