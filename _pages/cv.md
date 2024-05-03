@@ -86,12 +86,6 @@ Selected Publications
   
 The full publications list can be found from [Google Scholar](https://scholar.google.com/citations?user=k1PYH8sAAAAJ&hl=en).
 
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Services
 ======
 * Topic Editor, Frontiers in Neuroinformatics. Research Topic: “Distributed Computing in Neuroscience” [2023].
