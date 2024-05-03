@@ -15,7 +15,7 @@ I am a FOSS enthusiast. Google Summer of Code (GSoC) is a remote open-source sum
 
 ## Google Summer of Code (GSoC)
 
-This presentation introduces [GSoC](https://summerofcode.withgoogle.com/) based on my decades-long experience with open-source internship programs. 
+This presentation introduces [GSoC](https://summerofcode.withgoogle.com/) based on my experience with these internship programs. 
 
 <iframe src="../../files/GSoC.pdf" width="100%" height="460px"></iframe>
 
