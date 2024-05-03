@@ -9,8 +9,6 @@ redirect_from:
 
 [KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent research developments that are open source.
 
-## Open Source
-
 Below are a few open-source projects that I built as a core researcher and developer.
 
 * [Niffler](https://github.com/Emory-HITI/Niffler/): A DICOM retrieval and processing framework
