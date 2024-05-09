@@ -17,6 +17,8 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**May 4, 2024:** 4 of our papers got accepted to the IEEE Canadian Conference on Electrical and Computer Engineering (CCECE). See you all in Kingston, ON, Canada from August 5th to 9th!
+
 **May 1, 2024:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 4 contributors for this year's Google Summer of Code (GSoC). I will mentor Kolawole Daramola on the project "Telehealth over L4S" and Sai Vamsi on the project "AWANTA: A Virtual Router based on RIPE Atlas Internet Measurements." We are looking forward to a very productive GSoC this summer.
 
 **February 21, 2024:** [Alaska](https://github.com/uaanchorage/GSoC/) is accepted as a new mentoring organization for the Google Summer of Code (GSoC) 2024. I am excited to be an organization administrator and mentor, helping contributors with our project ideas. Are you interested? [Apply](https://summerofcode.withgoogle.com/) to become a GSoC Contributor!
