@@ -17,7 +17,7 @@ I like traveling and experiencing diverse cultures.
 
 I have lived in 7 countries: Sri Lanka, Portugal, Sweden, Croatia, USA, Belgium, and Saudi Arabia. 
 
-I have traveled in 48 countries as this map highlights. Read the [full list](travels.html) of my travels.
+I have traveled in 49 countries as this map highlights. Read the [full list](travels.html) of my travels.
 
 <div class="separator" style="clear: both; text-align: center;"><a href="/_pages/my-travel-map.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="840" data-original-width="1080" height="498" src="/_pages/my-travel-map.png" width="640" /></a></div>
 
