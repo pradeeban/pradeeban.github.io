@@ -17,6 +17,9 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+
+**July 25, 2024:** I presented our work, "Peer Learning in Diverse Undergraduate Population in Networking and Distributed Computing Research," at the [PAEE/ALE 2024](https://paee-ale-2024.pbllatam.org/) conference in San Andrés, Colombia.
+
 **July 9, 2024:** I will represent [Alaska](https://github.com/uaanchorage/GSoC/) at the [Google Summer of Code (GSoC) Mentor Summit 2024](https://sites.google.com/view/2024mentorsummit/) in Sunnyvale, Oct 4th Friday - Oct 6th Sunday, as the founding organization administrator for Alaska. Are you also attending the mentor summit? Let's meet there!
 
 **May 4, 2024:** 4 of our papers got accepted to the [IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)](https://ccece2024.ieee.ca). See you all in Kingston, ON, Canada from August 5th to 9th!
