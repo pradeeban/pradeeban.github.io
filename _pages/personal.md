@@ -17,7 +17,7 @@ I like traveling and experiencing diverse cultures.
 
 I have lived in 7 countries: Sri Lanka, Portugal, Sweden, Croatia, USA, Belgium, and Saudi Arabia. 
 
-I have traveled in 49 countries as this map highlights. Read the [full list](travels.html) of my travels.
+I have traveled in 49 countries, as this map highlights. Read the [full list](travels.html) of my travels.
 
 <div class="separator" style="clear: both; text-align: center;"><a href="/_pages/my-travel-map.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="840" data-original-width="1080" height="498" src="/_pages/my-travel-map.png" width="640" /></a></div>
 
@@ -40,15 +40,15 @@ _Memories of_ series
   * Although just a month, Croatia left a lasting impact and an on-going collaboration reaching a decade.
 
 * Memories of USA
-  * This is actually a future series since I prefer to write a series only from looking back. 
-  * The first post/episode on this series will be Memories of Atlanta, which I will write once I left Atlanta.
+  * This is a future series since I prefer to write from looking back. 
+  * The first post/episode on this series will be Memories of Atlanta, which I will write when I have time and mood.
   * A series on the Pandemic days of 2020 in Atlanta: [Week 42 - Week 12](https://kkpradeeban.blogspot.com/search?q=pandemic-atlanta-lockdown&max-results=50&by-date=true) and [Week 11 - Week 1](https://kkpradeeban.blogspot.com/search?q=pandemic-atlanta-lockdown&updated-max=2020-06-06T19:15:00%2B01:00&max-results=50&start=25&by-date=true).
   
 * [Memories of Belgium](https://kkpradeeban.blogspot.com/2019/03/memories-of-belgium.html)
   * I spent most of my 2017 in Belgium, as the second university of my Ph.D. was in Belgium.
   
 * [Memories of Saudi Arabia](https://kkpradeeban.blogspot.com/2017/12/experience-of-2-months-at-kaust-saudi.html)
-  * It was just two months. So a brief blog post.
+  * It was just two months. So, a brief blog post.
   
 _A few things that made my YEAR interesting.._ series
 ======
@@ -56,7 +56,7 @@ _A few things that made my YEAR interesting.._ series
 * [This](https://kkpradeeban.blogspot.com/search/label/Annual%20Post) is a series of blog posts that I write annually.
   * Each blog post is a collection of 30 items, remarking a happy event or an achievement of the year.
   * I have written this annual post since 2010, usually in the last week of December.
-  * A few years were exciting (for example, 2019, 2017, and 2015) and I was struggling to find which of the events to exclude from the post to limit to 30 things. Other years (such as 2018) were less eventful.
+  * A few years were exciting (for example, 2023, 2019, 2017, and 2015) and I was struggling to find which of the events to exclude from the post to limit to 30 things. Other years (such as 2018) were less eventful.
   
 _A few things that made my DECADE interesting.._ series
 ======
