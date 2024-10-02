@@ -17,18 +17,19 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**October 2, 2024:** I will represent [Alaska](https://github.com/uaanchorage/GSoC/) at the [Google Summer of Code (GSoC) Mentor Summit 2024](https://sites.google.com/view/2024mentorsummit/) in Sunnyvale, Oct 4th Friday - Oct 6th Sunday, as the founding organization administrator for Alaska. Are you also attending the mentor summit? Let's meet there!
+
+**September 16, 2024:** I will mentor Parth Kaushal on [L4SBOA](https://github.com/KathiraveluLab/L4SBOA) for [Alaskan Season of Code](https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md).
 
 **August 12, 2024:** I presented our ongoing work, "Peer Learning in Diverse Student Population in Distributed Computing Education and Research," at the [ICER 2024 Work-in-Progress Workshop](https://icer2024.acm.org/track/wip) in Melbourne, Australia.
 
 **July 25, 2024:** I presented our work, "Peer Learning in Diverse Undergraduate Population in Networking and Distributed Computing Research," at the [PAEE/ALE 2024](https://paee-ale-2024.pbllatam.org/) conference in San Andrés, Colombia.
 
-**July 9, 2024:** I will represent [Alaska](https://github.com/uaanchorage/GSoC/) at the [Google Summer of Code (GSoC) Mentor Summit 2024](https://sites.google.com/view/2024mentorsummit/) in Sunnyvale, Oct 4th Friday - Oct 6th Sunday, as the founding organization administrator for Alaska. Are you also attending the mentor summit? Let's meet there!
-
 **May 6, 2024:** I presented our work, "Distributed Computing Systems and Approaches for Polar Science Research: An Interdisciplinary Systematic Review," at the [Urgent Computing for the Edge-Cloud Continuum, QUICK Workshop Co-located with CCGrid'24](https://quick-workshop.github.io/) in Philadelphia, PA.
 
 **May 4, 2024:** 4 of our papers got accepted to the [IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)](https://ccece2024.ieee.ca). See you all in Kingston, ON, Canada from August 5th to 9th!
 
-**May 1, 2024:** I will mentor Mohamed Abdullah on [Beehive](https://github.com/KathiraveluLab/Beehive) for [Alaskan Summer of Code](https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Summer-of-Code.md).
+**May 1, 2024:** I will mentor Mohamed Abdullah on [Beehive](https://github.com/KathiraveluLab/Beehive) for [Alaskan Season of Code](https://github.com/uaanchorage/GSoC/blob/main/Alaskan-Season-of-Code.md).
 
 **May 1, 2024:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 4 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2024/organizations/alaska). I will mentor Kolawole Daramola on [L4SBOA](https://github.com/KathiraveluLab/L4SBOA) and Alisetti Sai Vamsi on [AWANTA](https://github.com/KathiraveluLab/AWANTA/). We are looking forward to a very productive GSoC this summer.
 
