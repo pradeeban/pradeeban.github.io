@@ -17,6 +17,9 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+
+**October 9, 2024:** Please read about the [Alaskan Season of Code](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/) and our [excellent contributors](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/blob/main/List-of-Contributors.md).
+
 **October 2, 2024:** I will represent [Alaska](https://github.com/uaanchorage/GSoC/) at the [Google Summer of Code (GSoC) Mentor Summit 2024](https://sites.google.com/view/2024mentorsummit/) in Sunnyvale, Oct 4th Friday - Oct 6th Sunday, as the founding organization administrator for Alaska. Are you also attending the mentor summit? Let's meet there!
 
 **August 12, 2024:** I presented our ongoing work, "Peer Learning in Diverse Student Population in Distributed Computing Education and Research," at the [ICER 2024 Work-in-Progress Workshop](https://icer2024.acm.org/track/wip) in Melbourne, Australia.
