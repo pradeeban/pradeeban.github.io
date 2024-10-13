@@ -20,7 +20,7 @@ Are you a student who likes to work with me?
 
 - Are you part of the University of Alaska System?
 
-  You can work with me for your Capstone project, thesis, or individual research. Please meet me during my office hours.
+  You can work with me for your capstone project, thesis, or individual research. Please come and meet me.
 
 - Are you outside the University of Alaska System?
   
