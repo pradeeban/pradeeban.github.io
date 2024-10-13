@@ -9,7 +9,9 @@ redirect_from:
 
 [KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent open-source developments.
 
-If you are applying to Google Summer of Code (GSoC) or another open-source remote internship or are a new contributor or mentor, you may find my [Presentations](../_pages/foss.html) useful.
+If you are applying to Google Summer of Code (GSoC) or another open-source remote internship or are a new contributor or mentor, you may find my [presentations](../_pages/foss.html) useful.
+
+Have a look at our [GSoC project ideas list](https://github.com/uaanchorage/GSoC/) and [Alaskan Season of Code](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/), if you are a student outside the University of Alaska System and you like to work with me.
 
 Other notable open-source projects that I built as a core researcher and developer:
 * [Niffler](https://github.com/Emory-HITI/Niffler/): A DICOM retrieval and processing framework
