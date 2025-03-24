@@ -17,9 +17,11 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**March 23, 2025:** Our paper on [L4SBOA](https://github.com/KathiraveluLab/L4SBOA) got accepted to the [IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)](https://ccece2025.ieee.ca/). See you all in Vancouver, BC, Canada from May 26th to 29th!
+
 **February 27, 2025:** [Alaska](https://github.com/uaanchorage/GSoC/) is accepted again as a mentoring organization for the Google Summer of Code (GSoC). We are looking forward to a productive GSoC 2025.
 
-**December 25, 2025:** Our paper **"Network Measurements for Telehealth Optimizations: Understanding Network Paths in Remote Regions."** has been accepted for publication in the Springer Cluster Computing journal. Congratulations, Eleonora and team!
+**December 25, 2024:** Our paper **"Network Measurements for Telehealth Optimizations: Understanding Network Paths in Remote Regions."** has been accepted for publication in the Springer Cluster Computing journal. Congratulations, Eleonora and team!
 
 **October 9, 2024:** Please read about the [Alaskan Season of Code](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/) and our [excellent contributors](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/blob/main/List-of-Contributors.md).
 
