@@ -17,6 +17,8 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**April 21, 2025:** Our paper on [Alaska Native History Web Map](https://github.com/mgkollander/ak-history-webmap) has been accepted for publication in the IEEE Computer Magazine. Congratulations, Mary and team!
+
 **March 23, 2025:** Our paper on [L4SBOA](https://github.com/KathiraveluLab/L4SBOA) got accepted to the [IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)](https://ccece2025.ieee.ca/). See you all in Vancouver, BC, Canada from May 26th to 29th!
 
 **February 27, 2025:** [Alaska](https://github.com/uaanchorage/GSoC/) is accepted again as a mentoring organization for the Google Summer of Code (GSoC). We are looking forward to a productive GSoC 2025.
