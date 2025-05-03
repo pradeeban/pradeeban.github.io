@@ -17,6 +17,8 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**May 2, 2025:** Our paper on [CONTROL-CORE](https://github.com/ControlCore-Project) has been accepted for publication in the Springer Cluster Computing journal. Congratulations, team!
+
 **April 29, 2025:** Our paper on [Dnigi](https://github.com/XinyueZhang-Ada/Dnigi) has been accepted for publication in the IEEE Computer Magazine. Congratulations, Xinyue and team!
 
 **April 21, 2025:** Our paper on [Alaska Native History Web Map](https://github.com/mgkollander/ak-history-webmap) has been accepted for publication in the IEEE Computer Magazine. Congratulations, Mary and team!
