@@ -18,7 +18,7 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 News
 ======
 
-**May 8, 2025:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 7 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2025/organizations/alaska). We have almost doubled in number! I will mentor Mohamed Abdullah on [AWANTA](https://github.com/KathiraveluLab/AWANTA/) and Ishaan Gupta on [Beehive](https://github.com/KathiraveluLab/Beehive/). We are looking forward to a very productive GSoC this summer.
+**May 11, 2025:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 8 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2025/organizations/alaska). We have doubled in number! I will mentor Mohamed Abdullah on [AWANTA](https://github.com/KathiraveluLab/AWANTA/), Ishaan Gupta on [Beehive](https://github.com/KathiraveluLab/Beehive/), Bagwan Prasad on [DREAMS](https://github.com/KathiraveluLab/DREAMS/). We are looking forward to a very productive GSoC this summer.
 
 **May 2, 2025:** Our paper on [CONTROL-CORE](https://github.com/ControlCore-Project) has been accepted for publication in the Springer Cluster Computing journal. Congratulations, team!
 
