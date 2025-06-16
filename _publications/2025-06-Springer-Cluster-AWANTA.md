@@ -6,7 +6,7 @@ excerpt: 'Telehealth primarily relies on the availability of reliable Internet c
 date: 2025-06-16
 venue: 'Cluster Computing – The Journal of Networks Software Tools and Applications (CLUSTER)'
 paperurl: 'https://doi.org/10.1007/s10586-024-05069-z'
-citation: 'Caballero, E. S., Ramirez, J., Alisetti, S. V., Almario, S., and <b>Kathiravelu, P. Network Measurements for Telehealth Optimizations. Understanding Internet Paths in Remote Regions.</b> In Cluster Computing – The Journal of Networks Software Tools and Applications (CLUSTER). December 2024. Accepted. Springer.'
+citation: 'Caballero, E. S., Ramirez, J., Alisetti, S. V., Almario, S., and <b>Kathiravelu, P. Network Measurements for Telehealth Optimizations. Understanding Internet Paths in Remote Regions.</b> In Cluster Computing – The Journal of Networks Software Tools and Applications (CLUSTER). June 2025. Springer.'
 ---
 
 Telehealth primarily relies on the availability of reliable Internet connectivity. However, Internet access can be challenging in remote regions far from the major Internet hubs. Such poor connectivity can prevent access to telehealth, where there is a tremendous need due to limited local healthcare facilities. Border Gateway Protocol (BGP), the exterior gateway protocol of the Internet, is not optimized for performance or shortest path. However, understanding network paths in remote regions of the Internet can enable network architectures tailored for telehealth access in remote regions. This paper explores the Internet landscape in Alaska, a vast remote region in the USA as far as the Internet access is concerned. Our study reveals how the state's geography impacts internet connectivity and provides insights into global connection routes. 
