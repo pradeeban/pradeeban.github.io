@@ -18,6 +18,10 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 News
 ======
 
+**July 15, 2025:** I will join the [2025 Educator Workshop: Teaching Computation with MATLAB (and GenAI)](https://serc.carleton.edu/teaching_computation/workshop_2025/index.html) on October 26th - 28th at Carleton College, Northfield, MN. See you there!
+
+**July 15, 2025:** I am the Co-Founder and CTO of [Healthy](https://healthy.inc/), an Alaska-based healthcare startup. _We exist to make healthcare healthy for all humans._
+
 **May 11, 2025:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 8 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2025/organizations/alaska). We have doubled in number! I will mentor Mohamed Abdullah on [AWANTA](https://github.com/KathiraveluLab/AWANTA/), Ishaan Gupta on [Beehive](https://github.com/KathiraveluLab/Beehive/), and Bagwan Prasad on [DREAMS](https://github.com/KathiraveluLab/DREAMS/). We are looking forward to a very productive GSoC this summer.
 
 **May 2, 2025:** Our paper on [CONTROL-CORE](https://github.com/ControlCore-Project) has been accepted for publication in the Springer Cluster Computing journal. Congratulations, team!
@@ -36,7 +40,7 @@ News
 
 **October 9, 2024:** Please read about the [Alaskan Season of Code](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/) and our [excellent contributors](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/blob/main/List-of-Contributors.md).
 
-**October 2, 2024:** I will represent [Alaska](https://github.com/uaanchorage/GSoC/) at the [Google Summer of Code (GSoC) Mentor Summit 2024](https://sites.google.com/view/2024mentorsummit/) in Sunnyvale, Oct 4th Friday - Oct 6th Sunday, as the founding organization administrator for Alaska. Are you also attending the mentor summit? Let's meet there!
+**October 2, 2024:** I will represent [Alaska](https://github.com/uaanchorage/GSoC/) at the [Google Summer of Code (GSoC) Mentor Summit 2024](https://sites.google.com/view/2024mentorsummit/) in Sunnyvale, October 4th - 6th, as the founding organization administrator for Alaska. Are you also attending the mentor summit? Let's meet there!
 
 **August 12, 2024:** I presented our ongoing work, "Peer Learning in Diverse Student Population in Distributed Computing Education and Research," at the [ICER 2024 Work-in-Progress Workshop](https://icer2024.acm.org/track/wip) in Melbourne, Australia.
 
