@@ -20,8 +20,6 @@ News
 
 **July 15, 2025:** I will join the [2025 Educator Workshop: Teaching Computation with MATLAB (and GenAI)](https://serc.carleton.edu/teaching_computation/workshop_2025/index.html) on October 26th - 28th at Carleton College, Northfield, MN. See you there!
 
-**July 15, 2025:** I am the Co-Founder and CTO of [Healthy](https://healthy.inc/), an Alaska-based healthcare startup. _We exist to make healthcare healthy for all humans._
-
 **May 11, 2025:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 8 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2025/organizations/alaska). We have doubled in number! I will mentor Mohamed Abdullah on [AWANTA](https://github.com/KathiraveluLab/AWANTA/), Ishaan Gupta on [Beehive](https://github.com/KathiraveluLab/Beehive/), and Bagwan Prasad on [DREAMS](https://github.com/KathiraveluLab/DREAMS/). We are looking forward to a very productive GSoC this summer.
 
 **May 2, 2025:** Our paper on [CONTROL-CORE](https://github.com/ControlCore-Project) has been accepted for publication in the Springer Cluster Computing journal. Congratulations, team!
