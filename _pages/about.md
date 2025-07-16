@@ -36,7 +36,7 @@ News
 
 **Jan 10, 2025:** Our paper on [LEO satellite network performance](https://github.com/schromya/LEO) has been accepted for publication in the [IEEE SysCon Conference](https://2025.ieeesyscon.org/). Congratulations, Mya and team!
 
-**December 25, 2024:** Our paper **"Network Measurements for Telehealth Optimizations: Understanding Network Paths in Remote Regions."** has been accepted for publication in the Springer Cluster Computing journal. Congratulations, Eleonora and team!
+**December 25, 2024:** Our paper "Network Measurements for Telehealth Optimizations: Understanding Network Paths in Remote Regions" has been accepted for publication in the Springer Cluster Computing journal. Congratulations, Eleonora and team!
 
 **October 9, 2024:** Please read about the [Alaskan Season of Code](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/) and our [excellent contributors](https://github.com/KathiraveluLab/Alaskan-Season-of-Code/blob/main/List-of-Contributors.md).
 
