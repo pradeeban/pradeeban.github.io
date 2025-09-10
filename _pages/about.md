@@ -18,6 +18,8 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 News
 ======
 
+**September 4, 2025:** Our paper, "Peer Learning through Distributed Computing Research for Diverse Undergraduate Students," got accepted to the Emerging Technologies and Educational Approaches toward Intelligent Systems workshop, in Conjunction with 44th International Performance, Computing and Communications Conference [IPCCC](https://www.ipccc.org/). See you all in Austin, TX from November 21st to 23rd!
+
 **July 15, 2025:** I will join the [2025 Educator Workshop: Teaching Computation with MATLAB (and GenAI)](https://serc.carleton.edu/teaching_computation/workshop_2025/index.html) on October 26th - 28th at Carleton College, Northfield, MN. See you there!
 
 **May 11, 2025:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 8 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2025/organizations/alaska). We have doubled in number! I will mentor Mohamed Abdullah on [AWANTA](https://github.com/KathiraveluLab/AWANTA/), Ishaan Gupta on [Beehive](https://github.com/KathiraveluLab/Beehive/), and Bagwan Prasad on [DREAMS](https://github.com/KathiraveluLab/DREAMS/). We are looking forward to a very productive GSoC this summer.
@@ -57,3 +59,4 @@ News
 **July 10, 2023:** I will represent the Department of Biomedical Informatics, Emory University (Emory BMI) at the [Google Summer of Code (GSoC) Mentor Summit 2023](https://sites.google.com/view/gsoc2023mentorsummit) in Sunnyvale, Oct 13th Friday - Oct 15th Sunday, as the primary organization administrator for Emory BMI.
 
 **March 31, 2023:** I am joining the University of Alaska Anchorage, College of Engineering as a Tenure-Track Assistant Professor of Computer Science this Fall. I will be a part of an excellent team of faculty in Anchorage. Look forward to more updates from me during this new chapter of my life.
+
