@@ -17,7 +17,7 @@ I like traveling and experiencing diverse cultures.
 
 I have lived in 7 countries: Sri Lanka, Portugal, Sweden, Croatia, USA, Belgium, and Saudi Arabia. 
 
-I have traveled in 52 countries across 6 continents, as this map highlights. Read the [full list](travels.html) of my travels.
+I have traveled in 53 countries across 6 continents, as this map highlights. Read the [full list](travels.html) of my travels.
 
 <div class="separator" style="clear: both; text-align: center;"><a href="/_pages/my-travel-map.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="840" data-original-width="1080" height="498" src="/_pages/my-travel-map.png" width="640" /></a></div>
 
@@ -65,3 +65,4 @@ _A few things that made my DECADE interesting.._ series
   * Each blog post is a collection of 30 items, remarking a happy event or an achievement of the decade.
   * My first decade post was for 2010s, written in December 2019. 2010s has been my most eventful and exciting decade.
   * Not sure whether this will become a series. We need to wait until 2029 for that.
+
