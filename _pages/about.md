@@ -17,6 +17,9 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+
+**Jan 21, 2026:** Our paper on [Beehive](https://github.com/kathiravelulab/beehive) has been accepted for publication in the [IEEE SysCon Conference](https://2026.ieeesyscon.org/). Congratulations, Mohamed and team!
+
 **November 12, 2025:** Our paper, "Satellite Image Processing in the Circumpolar North: Understanding Climate Crisis by Predicting Sea Ice Extent in the Arctic," has been accepted for publication in the Elsevier Remote Sensing Applications: Society and Environment (RSASE) journal. Congratulations, Ishadie, Akif, and team!
 
 **September 4, 2025:** Our paper, "Peer Learning through Distributed Computing Research for Diverse Undergraduate Students," got accepted to the Emerging Technologies and Educational Approaches toward Intelligent Systems workshop, in Conjunction with 44th International Performance, Computing and Communications Conference [(IPCCC)](https://www.ipccc.org/). See you all in Austin, TX from November 21st to 23rd!
@@ -60,6 +63,7 @@ News
 **July 10, 2023:** I will represent the Department of Biomedical Informatics, Emory University (Emory BMI) at the [Google Summer of Code (GSoC) Mentor Summit 2023](https://sites.google.com/view/gsoc2023mentorsummit) in Sunnyvale, Oct 13th Friday - Oct 15th Sunday, as the primary organization administrator for Emory BMI.
 
 **March 31, 2023:** I am joining the University of Alaska Anchorage, College of Engineering as a Tenure-Track Assistant Professor of Computer Science this Fall. I will be a part of an excellent team of faculty in Anchorage. Look forward to more updates from me during this new chapter of my life.
+
 
 
 
