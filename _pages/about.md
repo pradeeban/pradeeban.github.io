@@ -19,7 +19,7 @@ News
 ======
 **February 19, 2026:** [Alaska](https://github.com/uaanchorage/GSoC/) is accepted for the third time as a mentoring organization for the Google Summer of Code (GSoC). We are looking forward to a productive GSoC 2026 after our successful GSoC 2025 with 8 contributors and GSoC 2024 with 4 contributors.
 
-**January 21, 2026:** Our paper on [Beehive](https://github.com/kathiravelulab/beehive) has been accepted for publication in the [IEEE SysCon Conference](https://2026.ieeesyscon.org/). Congratulations, Mohamed and team!
+**January 21, 2026:** Our paper on [Beehive](https://github.com/kathiravelulab/beehive) has been accepted for publication in the [IEEE SysCon Conference](https://2026.ieeesyscon.org/). Congratulations, Mohamed and team! See you all in Halifax, NS, Canada from April 6th to 9th!
 
 **November 12, 2025:** Our paper, "Satellite Image Processing in the Circumpolar North: Understanding Climate Crisis by Predicting Sea Ice Extent in the Arctic," has been accepted for publication in the Elsevier Remote Sensing Applications: Society and Environment (RSASE) journal. Congratulations, Ishadie, Akif, and team!
 
