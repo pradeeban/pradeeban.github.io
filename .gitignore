@@ -4,4 +4,16 @@
 **/__pycache__/
 .idea/
 .DS_Store
-**/uaa-projects-list.docx
+
+# Design artifacts
+_paper
+_bmad
+
+# AI Agent files
+.claude
+.codex
+.cursor
+.vscode
+.agent
+.gemini
+
