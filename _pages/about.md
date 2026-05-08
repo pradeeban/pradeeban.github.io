@@ -17,6 +17,8 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**May 8, 2026:** I am visiting the Juraj Dobrila University of Pula, Croatia for the next 2.5 months. I work on the EQUISYS project (PI: Prof. Tihana Galinac Grbac) during this time.
+
 **April 30, 2026:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 8 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2026/organizations/alaska). Last year, too, we had 8 contributors. This is our third time. I will mentor  Daksh Pathak on [TENeT](https://github.com/KathiraveluLab/TENeT/) and Jessi Huang on [Diomede](https://github.com/KathiraveluLab/Diomede/). We are looking forward to a very productive GSoC this summer.
 
 **February 19, 2026:** [Alaska](https://github.com/uaanchorage/GSoC/) is accepted for the third time as a mentoring organization for the Google Summer of Code (GSoC). We are looking forward to a productive GSoC 2026 after our successful GSoC 2025 with 8 contributors and GSoC 2024 with 4 contributors.
