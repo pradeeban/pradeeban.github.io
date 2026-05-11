@@ -12,7 +12,7 @@ Dena'inaq ełnenaq' gheshtnu ch'q'u yeshdu. I live and work on the land of the D
 
 I like collaborations and inter-disciplinary research. If you are reading this, it is likely that we have common interests. I like to hear from you.
 
-If you are a University of Alaska student, staff, or faculty, you should have direct access to my office hours. If you would like to meet me outside office hours, please check my calendar for availability and send a calendar invitation to my email address. You can also knock on my door and say hi. I will be available if I am not preoccupied with another task or a virtual meeting.
+If you would like to meet me outside office hours, please check my calendar for availability and send a calendar invitation to my email address. You can also knock on my door and say hi. I will be available if I am not preoccupied with another task or a virtual meeting.
 
 Do you know that my office is open to the public as a state university? You can walk in 8 am - 5 pm, Monday - Friday. There is no one or nothing to block access. Knock on the door and say hi!
 
