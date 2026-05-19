@@ -17,6 +17,8 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**May 26, 2026:** I am giving an Invited Lecture at the [MIPRO 2026 - 49th Convention: SSE - Software and Systems Engineering](https://mipro.hr/MIPRO2026.SSE/ELink.aspx) on May 26th in Opatija, Croatia, on the topic of "Distributed Computing for the Extremes: What We Learned in the Circumpolar North." See you all there.
+
 **May 8, 2026:** I am visiting the Juraj Dobrila University of Pula, Croatia for the next 2.5 months. I work on the EQUISYS project (PI: Prof. Tihana Galinac Grbac) during this time.
 
 **April 30, 2026:** [Alaska](https://github.com/uaanchorage/GSoC/) welcomes 8 contributors for this year's [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/programs/2026/organizations/alaska). Last year, too, we had 8 contributors. This is our third time. I will mentor  Daksh Pathak on [TENeT](https://github.com/KathiraveluLab/TENeT/) and Jessi Huang on [Diomede](https://github.com/KathiraveluLab/Diomede/). We are looking forward to a very productive GSoC this summer.
