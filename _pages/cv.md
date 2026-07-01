@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<iframe src="../../files/Kathiravelu_Pradeeban_CV_2026.pdf#view=Fit&navpanes=0" width="100%" height="760px"></iframe>
+<iframe src="../../files/Kathiravelu_Pradeeban_CV_2026.pdf#view=FitH&navpanes=0" width="100%" style="height: 80vh; min-height: 500px;"></iframe>
