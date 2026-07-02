@@ -17,6 +17,8 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+**July 2, 2026:** Our paper on [IGUANA](https://github.com/KathiraveluLab/IGUANA/) has been accepted for publication in the [IEEE ISSE Conference](https://ieeeisse.org/2026). 
+
 **May 26, 2026:** I am giving an Invited Lecture, "Distributed Computing for the Extremes: What We Learned in the Circumpolar North," at the [MIPRO 2026 - 49th Convention: SSE - Software and Systems Engineering](https://mipro.hr/MIPRO2026.SSE/ELink.aspx) on May 26th in Opatija, Croatia. See you all there.
 
 **May 8, 2026:** I am visiting the Juraj Dobrila University of Pula, Croatia for the next 2.5 months. I work on the EU NextGeneration EQUISYS project (PI: Prof. Tihana Galinac Grbac) during this time.
