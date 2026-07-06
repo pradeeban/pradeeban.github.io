@@ -17,7 +17,12 @@ Before joining UAA, I was a Postdoctoral Researcher at the Department of Biomedi
 
 News
 ======
+
+**July 6, 2026:** I will join the [2026 Educator Workshop: Teaching Computation with MATLAB and GenAI](https://serc.carleton.edu/teaching_computation/workshop_2026/index.html) on October 25th - 27th at Carleton College, Northfield, MN. See you there! 
+
 **July 2, 2026:** Our paper on [IGUANA](https://github.com/KathiraveluLab/IGUANA/) has been accepted for publication in the [IEEE ISSE Conference](https://ieeeisse.org/2026). 
+
+**June 10, 2026:** I will attend the NAIRR Pilot Classroom Expansion Conference for Minority Serving Institutions, on August 10th - 11th in Portland, OR. See you there!
 
 **May 26, 2026:** I am giving an Invited Lecture, "Distributed Computing for the Extremes: What We Learned in the Circumpolar North," at the [MIPRO 2026 - 49th Convention: SSE - Software and Systems Engineering](https://mipro.hr/MIPRO2026.SSE/ELink.aspx) on May 26th in Opatija, Croatia. See you all there.
 
