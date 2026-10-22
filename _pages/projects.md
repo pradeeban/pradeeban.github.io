@@ -9,6 +9,16 @@ redirect_from:
 
 [KathiraveluLab](https://github.com/kathiravelulab/) hosts our recent open-source developments.
 
+```html
+<iframe 
+  src="https://kathiravelulab.github.io/Metro/" 
+  width="100%" 
+  height="680" 
+  style="border: 1px solid #cbd5e1; border-radius: 10px; box-shadow: 0 4px 16px rgba(0,0,0,0.06); background: #ffffff;"
+  title="KathiraveluLab Research Metro Map"
+  loading="lazy">
+</iframe>
+```
 If you are applying to Google Summer of Code (GSoC) or another open-source remote internship or are a new contributor or mentor, you may find my [presentations](../_pages/foss.html) useful.
 
 Other notable open-source projects that I built as a core researcher and developer:
